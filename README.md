@@ -8,9 +8,9 @@ This is the first version 1.01
 
 **Instructions**
 
-install node
-Clone the repository
-install modules with "npm install"
-start with "npm start"
+* install node
+* Clone the repository
+* install modules with "npm install"
+* start with "npm start"
 
 
