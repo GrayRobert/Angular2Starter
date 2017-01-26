@@ -4,7 +4,7 @@ This is my Angular 2 Starter Kit. It was created as a quick start for any new An
 
 **Current Status**
 
-This is the first version 1.01
+* This is the first version 1.01
 
 **Instructions**
 
